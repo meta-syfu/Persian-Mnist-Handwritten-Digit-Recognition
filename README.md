@@ -1,6 +1,6 @@
 # Persian MNIST Digit Recognizer
 
-![Sample Image](sample_image.png),[Sample Image](accuracy_image.png)
+![Sample Image](sample_image.png), [Sample Image2](accuracy_image.png)
 
 ## Overview
 This project is a digit recognizer for Persian handwritten digits using Convolutional Neural Networks (CNN). It is implemented in Python using the TensorFlow and Keras libraries.
