@@ -15,5 +15,5 @@ This project is a digit recognizer for Persian handwritten digits using Convolut
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/persian-mnist-digit-recognizer.git
+   git clone https://github.com/meta-syfu/persian-mnist-digit-recognizer.git
    cd persian-mnist-digit-recognizer
